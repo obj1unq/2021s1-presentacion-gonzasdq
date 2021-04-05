@@ -1,7 +1,7 @@
 # Presentación
 
 ## Estudiante: Gonzalo Pollini
-* ![MiFoto] : (https://github.com/obj1unq/2021s1-presentacion-gonzasdq/blob/master/miFoto.png?raw=true)
+* ![MiFoto] : 
 
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
 
