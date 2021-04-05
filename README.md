@@ -1,7 +1,7 @@
 # Presentación
 
 ##  Gonzalo Pollini
-* ![MiFoto] : 
+* ![MiFoto](https://github.com/obj1unq/2021s1-presentacion-gonzasdq/blob/master/miFoto.png?raw=true)
 * Vivo en Bernal, y me gusta la cerveza fria.
  
 
